@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/graarh/golang-socketio"
-	"github.com/graarh/golang-socketio/transport"
+	"github.com/fanatic/golang-socketio"
+	"github.com/fanatic/golang-socketio/transport"
 	"log"
 	"runtime"
 	"time"
